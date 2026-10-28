@@ -1,0 +1,11 @@
+[
+  {"title":"Frontend Developer Intern","company":"Nimbus Labs","domain":"Web Development","mode":"Remote","location":"India","duration":"3 months","description":"Build responsive UI components with HTML, CSS and JavaScript."},
+  {"title":"UI/UX Design Intern","company":"PixelNest","domain":"Design","mode":"Hybrid","location":"Bengaluru","duration":"2 months","description":"Create wireframes and prototypes for a student-focused mobile app."},
+  {"title":"Data Analyst Intern","company":"Insightly","domain":"Data","mode":"Remote","location":"India","duration":"3 months","description":"Clean datasets, build dashboards and present weekly findings."},
+  {"title":"Content Writing Intern","company":"BrightPen Media","domain":"Marketing","mode":"Remote","location":"Anywhere","duration":"1 month","description":"Write blog posts and social captions for tech brands."},
+  {"title":"Python Developer Intern","company":"CodeCraft","domain":"Software","mode":"On-site","location":"Pune","duration":"6 months","description":"Work on backend scripts and small APIs using Python and Flask."},
+  {"title":"Digital Marketing Intern","company":"GrowthLoop","domain":"Marketing","mode":"Hybrid","location":"Mumbai","duration":"3 months","description":"Assist with SEO, email campaigns and analytics reporting."},
+  {"title":"Graphic Design Intern","company":"Studio Marigold","domain":"Design","mode":"Remote","location":"India","duration":"2 months","description":"Design social media graphics and brand assets using Figma."},
+  {"title":"QA Testing Intern","company":"Nimbus Labs","domain":"Software","mode":"Remote","location":"India","duration":"3 months","description":"Write test cases, report bugs and learn basic test automation."},
+  {"title":"Accessibility Intern","company":"OpenDoor Tech","domain":"Web Development","mode":"Remote","location":"Anywhere","duration":"2 months","description":"Audit websites against WCAG guidelines and suggest practical fixes."}
+]
